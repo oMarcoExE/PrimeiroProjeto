@@ -5,7 +5,7 @@ Marco Polo
 ## Atividade
 
 ### Passo a Passo para fazer um bolo de chocolate
-1- pegar 3 ovos
+1- pegar 3 ovos /n
 2- pegar 1 e meia xícara de chá de açúcar
 3- pegar Meia xícara de chá de óleo
 4- pegar 1 xícara de chá de chocolate em pó
